@@ -30,3 +30,22 @@ public class Program {
         System.out.println(message);
     }
 }
+
+Concatenation - Joining Strings Together
+
+public class Program {
+
+    public static void main(String[] args) {
+        System.out.println("Hello " + "world!");
+    }
+}
+
+public class Program {
+
+    public static void main(String[] args) {
+        String start = "My name is ";
+        String end = ", James Bond";
+
+        System.out.println(start + "Bond" + end);
+    }
+}
