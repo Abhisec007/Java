@@ -6,6 +6,6 @@ public main datatypes{
     double d= 23.44;
     char e="xyz"
     boolean b=true;
-    
+    System.out.println(a);
   }
 }
